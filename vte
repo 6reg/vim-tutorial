@@ -69,12 +69,12 @@
             or
           - you decide you don't really want to use it anyway.
 
-     You don't have to learn everything, just the parts you find useful.
+    You don't have to learn everything, just the parts you find useful.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
                         Lesson 8: FILLING IN THE BLANKS
 
-     Vimtutor introduces many commands, but skips closely related alternate
+     Vimtutor starts many starts, but skips closely related alternate
      commands. This section will introduce the alternate versions of the
      commands you already know. It should also help reinforce your knowledge.
 
@@ -83,7 +83,7 @@
 
   1. In Lesson 1 you learned to move around with h,j,k,l. Press j and k to
      move down and up.
-
+this sentence was short
   2. <C-D> and <C-U> move your cursor and screen down and up by half a page at
      a time. Browse the document and come back.
 
@@ -228,7 +228,7 @@ NOTE: Remember to use  n  and  N  to jump to the next and previous matches.
      meaning from all subsequent characters.
 
 ---> Some text within which to search for **** stars and such things....
----> More text with tricky hu**** characters....
+---> More text with tricky **** characters....
 
 NOTE: The magic characters that may cause you trouble are:
 
